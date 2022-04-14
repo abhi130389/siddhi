@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> This demo is for understanding CICD Pipelines</h1>
+<h2> Basic Java project is deployed using Maven in Linux system on Tomcat server</h2>
+<h2> Free resources of Azure is used</h2>
